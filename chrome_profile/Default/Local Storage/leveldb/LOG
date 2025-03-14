@@ -1,0 +1,9 @@
+2025/03/14-17:28:03.366 2cbc Reusing MANIFEST C:\Users\템플스테이 Templestay\Coding\chrome_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/03/14-17:28:03.373 2cbc Recovering log #4
+2025/03/14-17:28:03.376 2cbc Reusing old log C:\Users\템플스테이 Templestay\Coding\chrome_profile\Default\Local Storage\leveldb/000004.log 
+2025/03/14-17:33:53.988 2790 Level-0 table #7: started
+2025/03/14-17:33:53.994 2790 Level-0 table #7: 32819 bytes OK
+2025/03/14-17:33:53.996 2790 Delete type=0 #4
+2025/03/14-17:34:05.007 2790 Level-0 table #9: started
+2025/03/14-17:34:05.015 2790 Level-0 table #9: 226316 bytes OK
+2025/03/14-17:34:05.017 2790 Delete type=0 #6

@@ -1,0 +1,12 @@
+2025/03/14-17:12:16.497 3298 Reusing MANIFEST C:\Users\템플스테이 Templestay\Coding\chrome_profile\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/14-17:12:16.497 3298 Recovering log #45
+2025/03/14-17:12:16.504 3298 Reusing old log C:\Users\템플스테이 Templestay\Coding\chrome_profile\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000045.log 
+2025/03/14-17:12:17.837 3298 Level-0 table #51: started
+2025/03/14-17:12:17.877 3298 Level-0 table #51: 3055872 bytes OK
+2025/03/14-17:12:17.879 3298 Delete type=0 #45
+2025/03/14-17:12:28.497 8dc Compacting 1@1 + 1@2 files
+2025/03/14-17:12:28.508 8dc Generated table #52@1: 111 keys, 245969 bytes
+2025/03/14-17:12:28.509 8dc Compacted 1@1 + 1@2 files => 245969 bytes
+2025/03/14-17:12:28.510 8dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/14-17:12:28.510 8dc Delete type=2 #48
+2025/03/14-17:12:28.510 8dc Delete type=2 #51
